@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string-array name="category">
+        <item>Select Category</item>
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Travel</item>
+        <item>Medical</item>
+        <item>Daily Expense</item>
+    </string-array>
+</resources>
